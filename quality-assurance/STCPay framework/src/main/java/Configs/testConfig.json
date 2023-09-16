@@ -1,0 +1,24 @@
+{
+  "envConfig": {
+    "empBaseUrl": "https://int.ea.ad.stcpay.com.sa/",
+    "amlockBaseUrl": "",
+    "sandBoxUrl": "https://sandbox.api.stc.com.sa:9512/",
+    "serverName": "Portal.API",
+    "uiServerName": "Portal/account/login",
+    "defaultWaitTime": 60,
+    "retries": 0
+  },
+  "emailConfig": {
+    "portType": "{25 false internally} ,,,, {578 authenticated}",
+    "sendEmail": true,
+    "sender" : "QA-Automation@stcpay.com.sa",
+    "password" : "Aa@123456",
+    "smtp_host" : "mail.stcpay.com.sa",
+    "smtp_auth" : "true",
+    "smtp_port" : "587",
+    "recipients": [
+      "amuhaidat.c@stcpay.com.sa"
+
+    ]
+  }
+}

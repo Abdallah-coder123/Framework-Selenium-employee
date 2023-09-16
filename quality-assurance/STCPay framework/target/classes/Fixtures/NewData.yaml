@@ -1,0 +1,20 @@
+---
+#this is test data
+#for this
+#test
+#URL:
+baseUrl: https://stcpay.com.sa/
+offersURL: https://stcpay.com.sa/offers/
+
+
+#Credentials:
+username: test@example.com
+password: "123456"
+baseUri: https://cd706b00-5cc5-40c1-bcc6-9b5dc4678ce1.mock.pstmn.io
+apiKey: PMAK-6347e5b9f6f32777771245c9-ee970d7139f14e1e5ebe33e494d558894b
+firstName: Ahmed
+lastName: Muhaidat
+email: asdsa@gmail.com
+postUri: http://qacart-todo.herokuapp.com
+
+

@@ -1,0 +1,8 @@
+ApiTest\AuthenticateTest\PositiveGenerateToken.class
+WebTest\STCPayTest.class
+WebTest\IbanMakerTest.class
+ApiTest\TestCase.class
+MobileTest\HomeTest.class
+WebTest\Testing.class
+ApiTest\AuthenticateTest\NegativeGeneratorToken.class
+WebTest\CaseListTest.class

@@ -1,0 +1,13 @@
+{
+  "endPoint": "BusinessPayment/v2/Inquiry",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "X-user-token": "TEST.129944",
+    "X-security-token": "383B08C7C45D82799C1C9731DAFB7E8CA9CB1444"
+  },
+  "body": {
+    "MerchantId": "61240874520"
+  }
+}

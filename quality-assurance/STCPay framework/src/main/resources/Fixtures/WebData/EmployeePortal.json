@@ -1,0 +1,38 @@
+{
+
+  "users":{
+    "adminUser": "ADMINUSER",
+    "adminPassword": "ADMINUSER123@@##"
+  },
+  "caseList": {
+    "caseId": "11207",
+    "caseType": {
+      "0": "All",
+      "1": "Remittance",
+      "2": "Onboarding",
+      "3": "MerchantOnboarding"
+    },
+    "automationStatus": {
+      "0": "All",
+      "1": "NA",
+      "2": "Accepted",
+      "3": "Rejected",
+      "4": "Suspended",
+      "5": "Fraud"
+    },
+    "automationStage": {
+      "0": "All",
+      "1": "Pending",
+      "2": "CompletedByUser",
+      "3": "CompletedBySystem"
+    },
+    "mtcn": [
+    "0309054046",
+    "2399170893",
+    "4469100493",
+    "7479126480"
+  ]
+
+
+  }
+}

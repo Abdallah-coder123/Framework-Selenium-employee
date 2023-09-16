@@ -1,0 +1,19 @@
+{
+  "endPoint": "api/TokenAuth/Authenticate",
+  "authUsername": "userNameOrEmailAddress",
+  "authPassword": "password",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept-Language": "en",
+    "Accept": "application/json",
+    "Referer": "Portal/account/login"
+  },
+  "adminBody": {
+    "userNameOrEmailAddress": "ADMINUSER",
+    "password": "ADMINUSER123@@##",
+    "rememberClient": false,
+    "twoFactorRememberClientToken": null,
+    "singleSignIn": false,
+    "returnUrl": null
+  }
+}

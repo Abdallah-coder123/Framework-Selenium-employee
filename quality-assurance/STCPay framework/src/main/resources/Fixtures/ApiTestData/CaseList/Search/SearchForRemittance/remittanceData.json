@@ -1,0 +1,10 @@
+{
+  "endPoint": "/api/services/app/Compliance/GetCaseList?CaseTypeId=1&MTCN=&FetchCount=true&MaxResultCount=10&SkipCount=0",
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ",
+    "Accept-Language": "en",
+    "Accept": "application/json",
+    "Referer": "Portal/app/main/caseList"
+  }
+}

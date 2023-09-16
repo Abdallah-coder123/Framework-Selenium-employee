@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="APITest" >
+
+    <test name="Token Generator (Positive Scenarios)">
+        <classes>
+            <class name="ApiTest.AuthenticateTest.PositiveGenerateToken"></class>
+        </classes>
+    </test>
+
+    <test name="Token Generator (Negative Scenarios)">
+        <classes>
+            <class name="ApiTest.AuthenticateTest.NegativeGeneratorToken"></class>
+        </classes>
+    </test>
+
+
+
+</suite>

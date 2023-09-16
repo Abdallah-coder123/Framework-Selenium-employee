@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "auth": "Authorization",
+    "header1": "Content-Type",
+    "header2": "Accept",
+    "header3": "Accept-Language",
+    "header4": "Referer"
+  }
+}
